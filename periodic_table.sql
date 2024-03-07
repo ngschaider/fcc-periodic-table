@@ -112,9 +112,9 @@ INSERT INTO public.properties VALUES (3, 6.94, 180.54, 1342, 2);
 INSERT INTO public.properties VALUES (4, 9.0122, 1287, 2470, 2);
 INSERT INTO public.properties VALUES (5, 10.81, 2075, 4000, 3);
 INSERT INTO public.properties VALUES (1000, 1, 10, 100, 3);
-INSERT INTO public.properties VALUES (1, 1.008, -259.1, -252.9, 1);
 INSERT INTO public.properties VALUES (9, 18.998, -220, -188.1, 2);
 INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 2);
+INSERT INTO public.properties VALUES (1, 1.008, -259.1, -252.9, 2);
 
 
 --
