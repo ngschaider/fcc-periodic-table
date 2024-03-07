@@ -21,6 +21,7 @@ else
 				WHERE elements.name='$1' OR elements.symbol='$1'")
 fi
 
+
 if [[ -z $DATA ]]
 then
 	echo "I could not find that element in the database."
